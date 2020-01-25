@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+    <string name="title">Title</string>
+    <string name="actors">Actors</string>
+    <string name="genres">Genres</string>
+    <string name="director">Director</string>
+    <string name="plot">Plot</string>
+    <string name="review">Review Movie</string>
+    <string name="review_">Review This Movie</string>
+</resources>

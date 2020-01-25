@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film Bewertung</string>
+    <string name="title">Titel</string>
+    <string name="actors">Schauspieler</string>
+    <string name="genres">Genres</string>
+    <string name="director">Regisseur</string>
+    <string name="plot">Handlung</string>
+    <string name="review">Film Bewerten</string>
+    <string name="review_">Diesen Film Bewerten</string>
+</resources>
